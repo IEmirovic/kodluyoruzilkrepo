@@ -32,3 +32,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Proje Resmi
 
 ![Proje Resmi](https://github.com/IEmirovic/kodluyoruzilkrepo/blob/main/projeresmi.png)
+
+## Patika.dev Linki
+
+[https://app.patika.dev/emirovic](https://app.patika.dev/emirovic)
